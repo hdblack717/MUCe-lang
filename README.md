@@ -9,10 +9,10 @@ Any form of **negativity** or **sarcasm** may be **reported to GitHub team**.
 ---
 
 What is MUCE?
-> MUCE is a lightweight domain-specific language (DSL) that extends C++ with clean syntax and enhanced control structures.
+> MUCE aka Minimalistic Updated C++ Extension is a lightweight domain-specific language (DSL) that extends C++ with clean syntax and enhanced control structures.
 > It’s built with a custom compiler `muce.exe`
 
-### Features:
+### Supports:
 
 Full C++ Support :
 > A language that supports everything that C++ supports.
@@ -42,4 +42,4 @@ Package Manager Support :
 > Language support package manager that helps user download packages and libraries from this repository
 
 Support Translation To Executable `.exe` and C++ Language `.cpp` :
-> Language 
+> Language support translation to exe using G++ Compiler (main cpp compiler) and translation to cpp file  `output.cpp`
