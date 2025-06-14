@@ -5,6 +5,7 @@ Any form of **negativity** or **sarcasm** may be **reported to GitHub team**.
 ---
 
 # MUCE Language - Minimalistic Updated C++ Extension
+<img src="logo.png" width="1000" />
 
 ---
 
