@@ -20,21 +20,20 @@ What is MUCE?
 Full C++ Support :
 > A language that supports everything that C++ supports.
 
-Templates Support :
-> language support template, you can create project using template, using:
+Project Creater Support :
+> you can create project using:
 > ```bash
-> muce(.exe) -new <template-name> <path> <folder> <main_name>
+> muce(.exe) -new project / <folder> <main_name>
 > ```
 > example : 
 > ```bash
-> muce -new template1 D:\MUCE_projects first_project Program
+> muce -new project / first_project Program
 > ```
 > result:
 > ```bash
 > MUSE_projects\
 >  - first_project\
->   - Program.mcpp
->   - template files . . . 
+>   - Program.mcpp 
 > ```
 
 Doxygen Support :
