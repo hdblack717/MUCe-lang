@@ -12,7 +12,7 @@ Any form of **negativity** or **sarcasm** may be **reported to GitHub team**.
 
 
 What is MUCE?
-> MUCE aka Minimalistic Updated C++ Extension is a lightweight domain-specific language (DSL) that extends C++ with clean syntax and enhanced control structures.
+> MUCE or Minimalistic Updated C++ Extension is a lightweight domain-specific language (DSL) that extends C++ with clean syntax and enhanced control structures.
 > It’s built with a custom compiler `muce.exe`
 
 ### Supports:
