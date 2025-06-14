@@ -14,7 +14,7 @@ What is MUCE?
 
 ### Features:
 
-full C++ Support :
+Full C++ Support :
 > A language that supports everything that C++ supports.
 
 Templates Support :
@@ -33,3 +33,13 @@ Templates Support :
 >   - Program.mcpp
 >   - template files . . . 
 > ```
+
+Doxygen Support :
+> language has excellent support for Doxygen-style documentation.
+> it recognizes tags like `@name` and supports embedded code examples using the `..@{}...` block syntax.
+
+Package Manager Support : 
+> Language support package manager that helps user download packages and libraries from this repository
+
+Support Translation To Executable `.exe` and C++ Language `.cpp` :
+> Language 
